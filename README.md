@@ -6,8 +6,8 @@ Right now, I'm participating in a machine learning program through Cornell Tech'
 
 
 ## 📊 GitHub Stats
-
-![ GitHub Stats](https://github-readme-stats.vercel.app/api?username=amelienorris&show_icons=true&theme=tokyonight)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amelienorris&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amelienorris&layout=compact&theme=tokyonight)
+
 
 ---
