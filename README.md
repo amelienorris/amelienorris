@@ -9,9 +9,7 @@ interested in nlp, data pipelines, and building things that are actually useful!
 
 ### github stats
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=amelienorris)](https://git.io/streak-stats)
-![github stats](https://github-readme-stats.vercel.app/api?username=amelienorris&show_icons=true&hide_border=true&count_private=true&hide=contribs)
-![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amelienorris&layout=compact&hide_border=true&count_private=true)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=amelienorris)](https://github.com/anuraghazra/github-readme-stats)
 
 ### connect with me!
 
