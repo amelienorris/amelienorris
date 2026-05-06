@@ -9,9 +9,8 @@ interested in nlp, data pipelines, and building things that are actually useful!
 
 ### github stats
 
-![my github stats](https://github-readme-stats.vercel.app/api?username=amelienorris&show_icons=true&hide_border=true&count_private=true&theme=default)
-
-![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amelienorris&layout=compact&hide_border=true&theme=default)
+![github stats](https://github-readme-stats.vercel.app/api?username=amelienorris&show_icons=true&hide_border=true&count_private=true&hide=contribs)
+![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amelienorris&layout=compact&hide_border=true&count_private=true)
 
 ### connect with me!
 
