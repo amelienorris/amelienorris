@@ -19,14 +19,13 @@ data cleaning and workflow optimization in airtable & SQL, reporting and visuali
 synthetic data pipelines, multi-agent rl, agentic workflow automation
 
 ### tools i use
-**languages:** java · python · typescript · javascript · sql · r · luau · latex
-**ml / ai:** pytorch · tensorflor · keras · XGboost · scikit-learn · hugging face · langchain · claude api · deepseek api · openai api · blenderproc
-**data:** pandas · airtable · google sheets
-**web / backend:** fastapi · rest apis · react · next.js · mongodb
-**extensions:** chrome extensions · chrome web store
-**finance:** alpaca api
-**infra / devops:** docker · docker compose · caddy · digitalocean · git
-**game dev:** roblox studio · argon · profilestore
+- **languages:** java · python · typescript · javascript · sql · r · luau · latex
+- **ml / ai:** pytorch · tensorflor · keras · XGboost · scikit-learn · hugging face · langchain · claude api · deepseek api · openai api · blenderproc
+- **data:** pandas · airtable · google sheets · excel
+- **web / backend:** fastapi · rest apis · react · next.js · mongodb
+- **extensions:** chrome extensions · chrome web store
+- **finance:** alpaca api
+- **infra / devops:** docker · docker compose · caddy · digitalocean · git
 
 ### get in touch with me!
 [linkedin](https://linkedin.com/in/amelienorris) · amelienorris@proton.me
