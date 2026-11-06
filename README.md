@@ -29,3 +29,10 @@ synthetic data pipelines, multi-agent rl, agentic workflow automation
 
 ### get in touch with me!
 [linkedin](https://linkedin.com/in/amelienorris) · amelienorris@proton.me
+
+### github stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=amelienorris&show_icons=true&theme=transparent&hide_border=true&hide_rank=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amelienorris&layout=compact&theme=transparent&hide_border=true" />
+</p>
